@@ -17,7 +17,7 @@ if (process.env.NODE_ENV === "development") {
 }
 
 app.use(cors({
-    origin: "https://watch-ecom-react.netlify.app/",
+    origin: "https://watch-ecom-react.netlify.app",
     credentials: true
 }));
 
