@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "The Hair Hack I Never Knew",
+        "slug": "the-hair-hack-i-never-knew",
+        "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-1.jpg",
+        "description": "loremLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop."
+    },
+    {
+        "id": 2,
+        "title": "Drying Out Your Skin During",
+        "slug": "drying-out-your-skin-during",
+        "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-2.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more."
+    },
+    {
+        "id": 3,
+        "title": "Shop Everyone On Your List",
+        "slug": "shop-everyone-on-your-list",
+        "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-3.jpg",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of 'de Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, written in 45 BC."
+    },
+    {
+        "id": 4,
+        "title": "The Shoe Will Your Fall Style",
+        "slug": "the-shoe-will-your-fall-style",
+        "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-4.jpg",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form..."
+    },
+    {
+        "id": 5,
+        "title": "Join millions of others",
+        "slug": "join-millions-of-others",
+        "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/8.jpg",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration..."
+    },
+    {
+        "id": 6,
+        "title": "Hang onto your memories",
+        "slug": "hang-onto-your-memories",
+        "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/7.jpg",
+        "description": "It is a long established fact that a reader will be distracted by the readable content..."
+    },
+    {
+        "id": 7,
+        "title": "Hang onto your memories hi",
+        "slug": "hang-onto-your-memories-hi",
+        "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-4.jpg",
+        "description": "It is a long established fact that a reader will be distracted by the readable content..."
+    },
+    {
+        "id": 8,
+        "title": "Onto your memories",
+        "slug": "onto-your-memories",
+        "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-2.jpg",
+        "description": "It is a long established fact that a reader will be distracted by the readable content..."
+    },
+    {
+        "id": 9,
+        "title": "Join millions of others with us",
+        "slug": "join-millions-of-others-with-us",
+        "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/7.jpg",
+        "description": "It is a long established fact that a reader will be distracted by the readable content..."
+    },
+    {
+        "id": 10,
+        "title": "Shop everyone on your list for surprise",
+        "slug": "shop-everyone-on-your-list-for-surprise",
+        "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-2.jpg",
+        "description": "It is a long established fact that a reader will be distracted by the readable content..."
+    }
+]

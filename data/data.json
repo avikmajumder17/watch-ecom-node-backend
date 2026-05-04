@@ -1,0 +1,516 @@
+{
+  "categoryProducts": [
+    {
+      "href": "default/men-watches.html",
+      "title": "Men's Watches",
+      "img": "./images/media/catalog/category/menwatches_1.png",
+      "count": "10 items"
+    },
+    {
+      "href": "default/health-beauty-hair.html",
+      "title": "Women's Watches",
+      "img": "./images/media/catalog/category/womenwatches_1.png",
+      "count": "7 items"
+    },
+    {
+      "href": "default/apparel.html",
+      "title": "Jewellery",
+      "img": "./images/media/catalog/category/je_1.png",
+      "count": "14 items"
+    },
+    {
+      "href": "default/sports-outdoors.html",
+      "title": "Accessories",
+      "img": "./images/media/catalog/category/acc_1.png",
+      "count": "2 items"
+    }
+  ],
+  "products": [
+    {
+      "id": 137,
+      "name": "Hublot Spirit Of Big Bang Moonphase Titanium Blue",
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/3/_/3_5.jpg",
+      "rating": 4,
+      "price": 315,
+      "manufacturer": "Smile Retro",
+      "color": "#000000",
+      "best_sller": true,
+      "size": 35,
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudantium, totam rem aperiam eaque ipsa quae ab illo inventore.",
+      "reviews": 1
+    },
+    {
+      "id": 220,
+      "name": "Tissot T-Touch Expert Solar II Rubber Red Diamond",
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/1/9/19_1.jpg",
+      "rating": 4.2,
+      "price": 998,
+      "manufacturer": "Smile Retro",
+      "color": "#FF0000",
+      "best_sller": true,
+      "size": 35,
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudantium, totam rem aperiam eaque ipsa quae ab illo inventore.",
+      "reviews": 2
+    },
+    {
+      "id": 138,
+      "name": "Franck Muller Vanguard Titanium Wool",
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/5/_/5_1_1.jpg",
+      "rating": 2,
+      "price": 520,
+      "manufacturer": "Mock Up",
+      "color": "#3944BC",
+      "best_sller": true,
+      "size": 38,
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudantium, totam rem aperiam eaque ipsa quae ab illo inventore.",
+      "reviews": 1
+    },
+    {
+      "id": 139,
+      "name": "Vacheron Constantin Vanguard Yachting Tourbillon",
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/1/7/17.jpg",
+      "rating": 3,
+      "price": 369,
+      "manufacturer": "The Back Yard",
+      "color": "#008000",
+      "best_sller": false,
+      "size": 40,
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudantium, totam rem aperiam eaque ipsa quae ab illo inventore.",
+      "reviews": 1
+    },
+    {
+      "id": 140,
+      "name": "Vacheron Automatic Constantin Titanium Light",
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/2/2/22_2.jpg",
+      "rating": 4.6,
+      "price": 633,
+      "manufacturer": "Agatha Stewart",
+      "color": "#FFC0CB",
+      "best_sller": true,
+      "size": 42,
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudantium, totam rem aperiam eaque ipsa quae ab illo inventore.",
+      "reviews": 1
+    },
+    {
+      "id": 141,
+      "name": "Hublot Chronograph Automatic Moonphase Titanium",
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/1/4/14.jpg",
+      "rating": 3.7,
+      "price": 689,
+      "manufacturer": "Ontech Group",
+      "color": "#FFC0CB",
+      "best_sller": true,
+      "size": 45,
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudantium, totam rem aperiam eaque ipsa quae ab illo inventore.",
+      "reviews": 1
+    },
+    {
+      "id": 142,
+      "name": "Vacheron Constantin Traditionnelle World Time",
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/1/_/1_1.jpg",
+      "rating": 3,
+      "price": 280,
+      "manufacturer": "Real Estate",
+      "color": "#BCC6CC",
+      "best_sller": false,
+      "size": 46,
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudantium, totam rem aperiam eaque ipsa quae ab illo inventore.",
+      "reviews": 1
+    },
+    {
+      "id": 143,
+      "name": "Vacheron Constantin Titanium Dark Blue",
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/2/3/23_1.jpg",
+      "rating": 4.9,
+      "price": 633,
+      "manufacturer": "Smile Retro",
+      "color": "#000000",
+      "best_sller": true,
+      "size": 35,
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudantium, totam rem aperiam eaque ipsa quae ab illo inventore.",
+      "reviews": 1
+    },
+    {
+      "id": 144,
+      "name": "Hublot Spirit Of Big Bang Moonphase Titanium",
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/2/_/2_3.jpg",
+      "rating": 4.3,
+      "price": 510,
+      "manufacturer": "Mock Up",
+      "color": "#3944BC",
+      "best_sller": false,
+      "size": 38,
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudantium, totam rem aperiam eaque ipsa quae ab illo inventore.",
+      "reviews": 1
+    },
+    {
+      "id": 145,
+      "name": "Tissot Le Locle Automatic Chronograph Black Diamond",
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/2/0/20_2.jpg",
+      "rating": 3,
+      "price": 614,
+      "manufacturer": "The Back Yard",
+      "color": "#008000",
+      "best_sller": false,
+      "size": 40,
+      "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudantium, totam rem aperiam eaque ipsa quae ab illo inventore.",
+      "reviews": 1
+    }
+  ],
+  "manufacturer": [
+    {
+      "id": 1,
+      "mnuftrer": "Smile Retro"
+    },
+    {
+      "id": 2,
+      "mnuftrer": "Mock Up"
+    },
+    {
+      "id": 3,
+      "mnuftrer": "The Back Yard"
+    },
+    {
+      "id": 4,
+      "mnuftrer": "Agatha Stewart"
+    },
+    {
+      "id": 5,
+      "mnuftrer": "Ontech Group"
+    },
+    {
+      "id": 6,
+      "mnuftrer": "Real Estate"
+    }
+  ],
+  "color": [
+    {
+      "id": 1,
+      "colorCode": "#000000"
+    },
+    {
+      "id": 2,
+      "colorCode": "#3944BC"
+    },
+    {
+      "id": 3,
+      "colorCode": "#008000"
+    },
+    {
+      "id": 4,
+      "colorCode": "#FFC0CB"
+    },
+    {
+      "id": 5,
+      "colorCode": "#BCC6CC"
+    }
+  ],
+  "size": [
+    {
+      "id": 1,
+      "productSize": 35,
+      "inStock": 1
+    },
+    {
+      "id": 2,
+      "productSize": 38,
+      "inStock": 1
+    },
+    {
+      "id": 3,
+      "productSize": 40,
+      "inStock": 3
+    },
+    {
+      "id": 4,
+      "productSize": 42,
+      "inStock": 1
+    },
+    {
+      "id": 5,
+      "productSize": 45,
+      "inStock": 1
+    },
+    {
+      "id": 6,
+      "productSize": 46,
+      "inStock": 2
+    }
+  ],
+  "bestSellerProducts": [
+    {
+      "id": 146,
+      "name": "Tissot T-Touch Expert Solar II Rubber Red Diamond",
+      "price": 998,
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/1/9/19_1.jpg",
+      "category": "Jewellery"
+    },
+    {
+      "id": 147,
+      "name": "Tissot Le Locle Automatic Chronograph Black Diamond",
+      "price": 614,
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/2/0/20_2.jpg",
+      "category": "Men's Watches"
+    },
+    {
+      "id": 148,
+      "name": "Omega Seamaster Planet Ocean Black Dial Coke Bezel",
+      "price": 578,
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/2/7/27_2.jpg",
+      "category": "Men's Watches"
+    },
+    {
+      "id": 149,
+      "name": "Omega Seamaster Aqua Terra Mother of Pearl Dial",
+      "price": 567,
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/2/1/21_2.jpg",
+      "category": "Men's Watches"
+    },
+    {
+      "id": 150,
+      "name": "Hublot Chronograph Automatic Moonphase Titanium",
+      "price": 478,
+      "image": "/images/media/catalog/product/cache/41fecdcbcb518aee26757b7fe6ef29e9/1/4/14.jpg",
+      "category": "Men's Watches"
+    }
+  ],
+  "relatedProducts": [
+    {
+      "id": 151,
+      "name": "Franck Muller Vanguard Yachting Tourbillon",
+      "image": "/images/media/catalog/product/cache/101741833577b314b3a33b4a4caa54b9/6/_/6_4.jpg",
+      "rating": 80,
+      "reviews": 1,
+      "price": 270,
+      "isNew": false
+    },
+    {
+      "id": 152,
+      "name": "Franck Muller Vanguard Titanium Wool",
+      "image": "/images/media/catalog/product/cache/101741833577b314b3a33b4a4caa54b9/5/_/5_1_1.jpg",
+      "rating": 100,
+      "reviews": 1,
+      "price": 520,
+      "isNew": false
+    },
+    {
+      "id": 153,
+      "name": "Vacheron Constantin Vanguard Yachting Tourbillon",
+      "image": "/images/media/catalog/product/cache/101741833577b314b3a33b4a4caa54b9/1/7/17.jpg",
+      "rating": 100,
+      "reviews": 1,
+      "price": 369,
+      "isNew": false
+    },
+    {
+      "id": 154,
+      "name": "Hublot Spirit Of Big Bang Moonphase Titanium Blue",
+      "image": "/images/media/catalog/product/cache/101741833577b314b3a33b4a4caa54b9/3/_/3_5.jpg",
+      "rating": 60,
+      "reviews": 1,
+      "price": 315,
+      "isNew": false
+    },
+    {
+      "id": 155,
+      "name": "Vacheron Constantin Titanium Dark Blue",
+      "image": "/images/media/catalog/product/cache/101741833577b314b3a33b4a4caa54b9/2/3/23_1.jpg",
+      "rating": 93,
+      "reviews": 1,
+      "price": 633,
+      "isNew": false
+    },
+    {
+      "id": 156,
+      "name": "Vacheron Constantin Traditionnelle World Time",
+      "image": "/images/media/catalog/product/cache/101741833577b314b3a33b4a4caa54b9/1/_/1_1.jpg",
+      "rating": 87,
+      "reviews": 1,
+      "price": 280,
+      "isNew": false
+    },
+    {
+      "id": 157,
+      "name": "Hublot Chronograph Automatic Moonphase Titanium",
+      "image": "/images/media/catalog/product/cache/101741833577b314b3a33b4a4caa54b9/1/4/14.jpg",
+      "rating": 87,
+      "reviews": 1,
+      "price": 689,
+      "isNew": false
+    },
+    {
+      "id": 158,
+      "name": "Hublot Classic Fusion Automatic Grey Dial",
+      "image": "/images/media/catalog/product/cache/101741833577b314b3a33b4a4caa54b9/2/5/25.jpg",
+      "rating": 87,
+      "reviews": 1,
+      "price": 833,
+      "isNew": true
+    }
+  ],
+  "homeTestimonials": [
+    {
+      "text": "It is a wonderful watch. I did not make the mistake of spending a sum of money to own it. Thank you New Century for the best.",
+      "name": "JOHNNIE WALKER",
+      "location": "Los Angeles"
+    },
+    {
+      "text": "It is a wonderful watch. I did not make the mistake of spending a sum of money to own it. Thank you New Century for the best.",
+      "name": "MICHAEL JACKSON",
+      "location": "New York"
+    },
+    {
+      "text": "It is a wonderful watch. I did not make the mistake of spending a sum of money to own it. Thank you New Century for the best.",
+      "name": "TOMMY HILFIGER",
+      "location": "San Francisco"
+    },
+    {
+      "text": "It is a wonderful watch. I did not make the mistake of spending a sum of money to own it. Thank you New Century for the best.",
+      "name": "MICHAEL JACKSON",
+      "location": "New York"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "The Hair Hack I Never Knew",
+      "slug": "the-hair-hack-i-never-knew",
+      "link": "default/blog/post_/the-hair-hack-i-never-knew/index.html",
+      "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-1.jpg",
+      "date": "04",
+      "month": "Dec",
+      "desc": "loremLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop."
+    },
+    {
+      "id": 2,
+      "title": "Drying Out Your Skin During",
+      "slug": "drying-out-your-skin-during",
+      "link": "default/blog/post_/drying-out-your-skin-during/index.html",
+      "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-2.jpg",
+      "date": "04",
+      "month": "Dec",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more."
+    },
+    {
+      "id": 3,
+      "title": "Shop Everyone On Your List",
+      "slug": "shop-everyone-on-your-list",
+      "link": "default/blog/post_/shop-everyone-on-your-list/index.html",
+      "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-3.jpg",
+      "date": "04",
+      "month": "Dec",
+      "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of 'de Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, written in 45 BC."
+    },
+    {
+      "id": 4,
+      "title": "The Shoe Will Your Fall Style",
+      "slug": "the-shoe-will-your-fall-style",
+      "link": "default/blog/post_/the-shoe-will-your-fall-style/index.html",
+      "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-4.jpg",
+      "date": "04",
+      "month": "Dec",
+      "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form..."
+    },
+    {
+      "id": 5,
+      "title": "Join millions of others",
+      "slug": "join-millions-of-others",
+      "link": "default/blog/post_/join-millions-of-others/index.html",
+      "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/8.jpg",
+      "date": "17",
+      "month": "Jun",
+      "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration..."
+    },
+    {
+      "id": 6,
+      "title": "Hang onto your memories",
+      "slug": "hang-onto-your-memories",
+      "link": "default/blog/post_/hang-onto-your-memories/index.html",
+      "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/7.jpg",
+      "date": "17",
+      "month": "Jun",
+      "desc": "It is a long established fact that a reader will be distracted by the readable content..."
+    },
+    {
+      "id": 7,
+      "title": "Hang onto your memories hi",
+      "slug": "hang-onto-your-memories-hi",
+      "link": "default/blog/post_/hang-onto-your-memories/index.html",
+      "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-4.jpg",
+      "date": "17",
+      "month": "Jun",
+      "desc": "It is a long established fact that a reader will be distracted by the readable content..."
+    },
+    {
+      "id": 8,
+      "title": "Onto your memories",
+      "slug": "onto-your-memories",
+      "link": "default/blog/post_/hang-onto-your-memories/index.html",
+      "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-2.jpg",
+      "date": "17",
+      "month": "Jun",
+      "desc": "It is a long established fact that a reader will be distracted by the readable content..."
+    },
+    {
+      "id": 9,
+      "title": "Join millions of others with us",
+      "slug": "join-millions-of-others-with-us",
+      "link": "default/blog/post_/hang-onto-your-memories/index.html",
+      "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/7.jpg",
+      "date": "17",
+      "month": "Jun",
+      "desc": "It is a long established fact that a reader will be distracted by the readable content..."
+    },
+    {
+      "id": 10,
+      "title": "Shop everyone on your list for surprise",
+      "slug": "shop-everyone-on-your-list-for-surprise",
+      "link": "default/blog/post_/hang-onto-your-memories/index.html",
+      "img": "http://magento2.magentech.com/themes/sm_time/pub/media/magefan_blog/fashion-2.jpg",
+      "date": "17",
+      "month": "Jun",
+      "desc": "It is a long established fact that a reader will be distracted by the readable content..."
+    }
+  ],
+  "blogAttributes": {
+    "blogCategory": ["Fassion", "Stylish", "New"],
+    "tags": ["new", "modern"]
+  },
+  "users": [
+    {
+      "email": "avikmaassaddasjumdwder17@gmail.com",
+      "password": "$2a$10$OFlPDSFiibCGUZJYNO5K8.9P9SvgDNVUsi2usqR4ddxPYTNsqvjX2",
+      "firstName": "av",
+      "lastName": "m",
+      "id": 1
+    },
+    {
+      "email": "avikmaassaddadfsjumdwder17@gmail.com",
+      "password": "$2a$10$UIvuL5zvSek77axH53X5UOn.luP1rKNMYr5fkjdxMkrvi19WvpmKi",
+      "firstName": "asdfsdf",
+      "lastName": "dsfsdf",
+      "id": 2
+    },
+    {
+      "email": "avikmajumder1587@gmail.com",
+      "password": "$2a$10$T/ZMXF2ckzhRtXFlNMuDA.TU51G0ZSopk7jqMmMf8l2.pioI.Yab6",
+      "firstName": "avik",
+      "lastName": "majumder",
+      "id": 3
+    },
+    {
+      "email": "avikm@gmail.com",
+      "password": "$2a$10$tThrQgl3T7qqLs4AcSf50u8bFR7Ib2Gi9.bOHJUW45MBTEC.yZaPC",
+      "firstName": "avik",
+      "lastName": "m",
+      "id": 4
+    },
+    {
+      "email": "avikmjdr@gmail.com",
+      "password": "$2a$10$pkZPbjKQ9O9f2jfAsEw9EuJxyf93tJ9yzGR0WQne7V4zem.r7uzjO",
+      "firstName": "avk",
+      "lastName": "vrse",
+      "id": 5
+    }
+  ]
+}
