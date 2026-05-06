@@ -22,7 +22,7 @@ app.use(cors({
     credentials: true
 }));
 
-app.use(express.json());
+app.use(express.json()); 
 
 
 app.use("/api/v1/watches", watchRouter);
